@@ -1,5 +1,0 @@
-Cop	Cop|457544	1
-Cry	Cry|548176	3
-Hym	Hym|412649	2
-Pen	Pen|4660	4
-The	The|6713	5
